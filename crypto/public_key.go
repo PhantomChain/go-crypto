@@ -1,6 +1,6 @@
-// This file is part of Ark Go Crypto.
+// This file is part of PHANTOM Go Crypto.
 //
-// (c) Ark Ecosystem <info@ark.io>
+// (c) PhantomChain <info@phantom.org>
 //
 // For the full copyright and license information, please view the LICENSE
 // file that was distributed with this source code.
@@ -8,7 +8,7 @@
 package crypto
 
 import (
-	"github.com/ArkEcosystem/go-crypto/crypto/base58"
+	"github.com/PhantomChain/go-crypto/crypto/base58"
 	"github.com/btcsuite/btcd/btcec"
 	"golang.org/x/crypto/ripemd160"
 )
